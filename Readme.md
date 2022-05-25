@@ -16,3 +16,8 @@ https://github.com/UB-Mannheim/tesseract/wiki
 chú ý sửa đường dẫn tới pytesseract tại src/pipeline/tessocr.py
 
 
+## Reference
+
+Nanopnet: https://nanonets.com/blog/information-extraction-graph-convolutional-networks/
+
+Kien Trung: https://www.youtube.com/watch?v=7MRE4Fw6K5s
